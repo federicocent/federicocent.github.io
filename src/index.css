@@ -1,0 +1,15 @@
+html,body{
+    height: 100%;
+}
+body{
+    background: rgba(0,211,255,1);
+    
+}
+img{
+    display:block;
+    margin:auto;
+    max-width: 30%;
+}
+.logo-tec{
+    margin-left: 10px;
+}

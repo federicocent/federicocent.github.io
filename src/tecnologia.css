@@ -1,0 +1,14 @@
+html,body{
+    height: 100%;
+}
+body{
+    background: rgba(0,211,255,1);
+    
+}
+.logo-tec{
+    margin-left: 10px;
+}
+iframe{
+    margin: auto;
+    display: block;
+}
